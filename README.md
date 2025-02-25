@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" >
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=symh-code&label=Profile%20views&color=0e75b6&style=flat" alt="symh-code" /> </p>
+<p align="left"> <img src="file:///C:/Users/bobad/Downloads/DALL%C2%B7E%202025-02-25%2002.40.24%20-%20Pixel%20art%20of%20a%20young%20gamer%20with%20a%20middle-part%20haircut,%20wearing%20glasses,%20sitting%20in%20a%20cozy%20gaming%20setup.%20He%20has%20brown%20eyes%20and%20is%20petting%20a%20happy%20black.webp" alt="symh-code" /> </p>
 
 - 🌱 I’m currently learning **JavaScript, SQL, and more**
 
