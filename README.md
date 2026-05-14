@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:000000,100:a371f7&text=Simón%20Bobadilla&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Backend%20Developer%20•%20Automation%20•%20AI%20Workflows&descSize=22&descColor=FFFFFF&descAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:000000,100:a371f7&text=Simón%20Bobadilla&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=FullStack%20Developer%20•%20Automation%20•%20AI%20Workflows&descSize=22&descColor=FFFFFF&descAlignY=68" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=A371F7&center=true&vCenter=true&width=900&lines=Backend+Developer;Automation+Engineer;ETL+Pipelines+%26+Data+Workflows;AI-Powered+Systems;Building+Scalable+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=A371F7&center=true&vCenter=true&width=900&lines=FullStack+Developer;Automation+Engineer;ETL+Pipelines+%26+Data+Workflows;AI-Powered+Systems;Building+Scalable+Solutions" />
 </p>
 
 <p align="center">
@@ -17,21 +17,21 @@
 ```python
 class SimonBobadilla:
     def __init__(self):
-        self.role = "Backend Developer"
+        self.role = "FullStack Developer"
         self.focus = [
             "Automation",
             "ETL Pipelines",
             "AI Workflows",
-            "Backend Systems"
+            "FullStack Systems"
         ]
         
     def current_goal(self):
         return "Building scalable systems that replace manual processes"
 ```
 
-💻 Backend developer specialized in automation, ETL pipelines, and AI-powered workflows.
+💻 Fullstack developer specialized in automation, ETL pipelines, and AI-powered workflows.
 
-🚀 I build systems that optimize business operations through backend development, workflow automation, data validation, and AI integrations.
+🚀 I build systems that optimize business operations through Fullstack development, workflow automation, data validation, and AI integrations.
 
 🧠 Passionate about scalable architectures, modern web applications, and process optimization.
 
